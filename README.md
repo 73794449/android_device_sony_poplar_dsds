@@ -26,12 +26,11 @@ How to build Resurrection Remix OS Q
 <?xml version="1.0" encoding="UTF-8"?>
         <manifest>
                 <!-- SONY -->
-        <project name="whatawurst/android_kernel_sony_msm8998" path="kernel/sony/msm8998" remote="github" revision="lineage-17.1" />
-        <project name="whatawurst/android_device_sony_yoshino-common" path="device/sony/yoshino-common" remote="github" revision="lineage-17.1" />
-        <project name="whatawurst/android_device_sony_poplar_dsds" path="device/sony/poplar_dsds" remote="github" revision="lineage-17.1" />
-
+        <project name="T3RY4/android_kernel_sony_msm8998" path="kernel/sony/msm8998" remote="github" revision="rr-q" />
+        <project name="T3RY4/android_device_sony_yoshino-common" path="device/sony/yoshino-common" remote="github" revision="rr-q" />
+        <project name="T3RY4/android_device_sony_poplar_dsds" path="device/sony/poplar_dsds" remote="github" revision="rr-q" />
                 <!-- Pinned blobs for poplar_dsds -->
-        <project name="whatawurst/android_vendor_sony_poplar_dsds" path="vendor/sony/poplar_dsds" remote="github" revision="lineage-17.1" />
+        <project name="T3RY4/android_vendor_sony_poplar_dsds" path="vendor/sony/poplar_dsds" remote="github" revision="rr-q" />
         </manifest>
 
 * Sync the repo:
