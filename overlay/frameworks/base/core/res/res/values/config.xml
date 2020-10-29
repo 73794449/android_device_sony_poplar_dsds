@@ -191,7 +191,9 @@
     <integer name="config_screenBrightnessDark">1</integer>
 
     <string name="config_mms_user_agent">SonyG8342</string>
-
+    <integer name="config_device_HardwareWakeKeys">32</integer>
+    <bool name="config_supportSmartPixels">true</bool>
+    
     <!-- MMS user agent prolfile url -->
     <string name="config_mms_user_agent_profile_url" translatable="false">http://uaprof.sonymobile.com/G8342R4721.xml</string>
 </resources>
