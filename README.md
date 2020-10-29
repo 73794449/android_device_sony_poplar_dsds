@@ -49,4 +49,4 @@ How to build Resurrection Remix OS Q
 
 * Build Resurrection Remix OS Q
 
-        make -j(nproc) bacon
+        make -j(number of threads) bacon
