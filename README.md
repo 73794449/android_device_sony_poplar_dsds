@@ -50,6 +50,6 @@ How to build AOSPA ruby
 * Build AOSPA ruby
 
         # Go to the root of the source tree...
-        $ cd WORKSPACE
+        $ cd ~/aospa
         # ...and run the builder tool.
         $ ./rom-build.sh poplar_dsds
