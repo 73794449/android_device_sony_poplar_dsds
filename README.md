@@ -49,4 +49,7 @@ How to build AOSPA ruby
 
 * Build AOSPA ruby
 
-        make -j(number of threads) bacon
+        # Go to the root of the source tree...
+        $ cd WORKSPACE
+        # ...and run the builder tool.
+        $ ./rom-build.sh poplar_dsds
